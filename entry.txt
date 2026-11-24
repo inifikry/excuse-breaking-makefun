@@ -1,0 +1,1 @@
+I fixed the crash by deleting the error message. The crash is gone. So is the login page.
